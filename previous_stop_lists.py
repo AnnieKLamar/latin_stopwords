@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 '''
 This is the list of stopwords computed by mean frequency (how often the words appear in Latin literature). 
 These are the words with the *highest* mean frequency. 
